@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">a1_homeWork_3</string>
+    <string name="open_activitytwo">open ActivityTwo</string>
+    <string name="send_result">send result</string>
+    <string name="send_text_to_gmail">send text to gmail</string>
+</resources>
